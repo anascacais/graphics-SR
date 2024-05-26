@@ -1,0 +1,13 @@
+,bigrams,counts
+0,"('raw physiological signal', 'ToD')",3
+1,"('features from physiological signal', 'seizure cyclic profile')",2
+2,"('seizure cyclic profile', 'other cyclic profiles')",1
+3,"('features from physiological signal', 'seizure times')",7
+4,"('cyclic profile of physiological signal', 'seizure cyclic profile')",8
+5,"('cyclic profile of physiological signal', 'features from physiological signal')",5
+6,"('cyclic profile of physiological signal', 'seizure times')",5
+7,"('seizure cyclic profile', 'seizure times')",1
+8,"('cyclic profile of physiological signal', 'other info')",4
+9,"('features from physiological signal', 'other info')",4
+10,"('seizure times', 'other info')",4
+11,"('raw physiological signal', 'seizure cyclic profile')",1
